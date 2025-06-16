@@ -1,0 +1,12 @@
+
+<div class="container">
+  <h2>Lista de Usuários</h2>
+  <button routerLink="/users/new">Novo Usuário</button>
+  <ul>
+    <li *ngFor="let user of users">
+      {{ user.name }} ({{ user.email }})
+      <button (click)="editUser(user.id)">Editar</button>
+      <button (click)="deleteUser(user.id)">Excluir</button>
+    </li>
+  </ul>
+</div>

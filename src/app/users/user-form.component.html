@@ -1,0 +1,11 @@
+
+<div class="container">
+  <h2>{{ editMode ? 'Editar Usuário' : 'Novo Usuário' }}</h2>
+  <form (ngSubmit)="onSubmit()">
+    <label>Nome:</label>
+    <input [(ngModel)]="user.name" name="name" required>
+    <label>Email:</label>
+    <input [(ngModel)]="user.email" name="email" required>
+    <button type="submit">{{ editMode ? 'Atualizar' : 'Salvar' }}</button>
+  </form>
+</div>
