@@ -41,7 +41,7 @@ npm install
 
 ---
 
-## ▶️ Executando o Projeto
+##  Executando o Projeto
 
 Para rodar o servidor de desenvolvimento:
 
@@ -101,7 +101,7 @@ src/
 
 ---
 
-## 👨‍💻 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Angular**
 - **TypeScript**
@@ -111,7 +111,7 @@ src/
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto foi desenvolvido para fins educacionais como parte do curso universitário. Uso livre para fins acadêmicos.
 
