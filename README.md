@@ -1,10 +1,10 @@
-# 📌 To-Do List - Projeto Angular
+#  To-Do List - Projeto Angular
 
 Este projeto foi desenvolvido como parte prática do trabalho da disciplina de **Desenvolvimento Front-End**. Trata-se de uma aplicação web de lista de tarefas construída com o framework **Angular**, que permite adicionar, concluir e remover tarefas, além de exibir um histórico de tarefas removidas.
 
 ---
 
-## 📚 Objetivo do Projeto
+##  Objetivo do Projeto
 
 O projeto visa demonstrar, na prática, a aplicação de conceitos fundamentais de desenvolvimento front-end utilizando Angular, incluindo:
 
@@ -16,9 +16,9 @@ O projeto visa demonstrar, na prática, a aplicação de conceitos fundamentais 
 
 ---
 
-## ⚙️ Instalação e Configuração
+## ⚙ Instalação e Configuração
 
-### ✅ Pré-requisitos
+###  Pré-requisitos
 
 - [Node.js](https://nodejs.org) versão 18 ou superior (recomendado: v20+)
 - [Angular CLI](https://angular.io/cli) instalado globalmente:
@@ -26,14 +26,14 @@ O projeto visa demonstrar, na prática, a aplicação de conceitos fundamentais 
   npm install -g @angular/cli
   ```
 
-### 📥 Clonando o Repositório
+###  Clonando o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/todolist-angular.git
-cd todolist-angular
+git clone https://github.com/KaikeRosa/trabalho-front-end-2.git
+cd trabalho-front-end-2
 ```
 
-### 📦 Instalando as Dependências
+###  Instalando as Dependências
 
 ```bash
 npm install
@@ -53,7 +53,7 @@ Acesse no navegador: [http://localhost:4200](http://localhost:4200)
 
 ---
 
-## 🧪 Executando os Testes
+##  Executando os Testes
 
 O projeto possui testes automatizados com Karma e Jasmine.
 
@@ -67,7 +67,7 @@ Os testes abrem um navegador headless e verificam funcionalidades básicas dos c
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 src/
@@ -90,14 +90,14 @@ src/
 
 ---
 
-## 💡 Funcionalidades
+##  Funcionalidades
 
-- ✅ Adicionar nova tarefa
-- ✅ Marcar tarefa como concluída
-- ✅ Remover tarefa e armazenar no histórico
-- ✅ Página separada para histórico de tarefas
-- ✅ Estrutura modularizada com componentes
-- ✅ Testes automatizados básicos
+-  Adicionar nova tarefa
+-  Marcar tarefa como concluída
+-  Remover tarefa e armazenar no histórico
+-  Página separada para histórico de tarefas
+-  Estrutura modularizada com componentes
+-  Testes automatizados básicos
 
 ---
 
@@ -117,4 +117,4 @@ Este projeto foi desenvolvido para fins educacionais como parte do curso univers
 
 ---
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por Kaike Hariel Rosa.
